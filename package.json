@@ -1,0 +1,19 @@
+{
+  "name": "financial",
+  "version": "1.0.0",
+  "description": "Financial App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ccmiller2018/financial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ccmiller2018/financial/issues"
+  },
+  "homepage": "https://github.com/ccmiller2018/financial#readme"
+}
